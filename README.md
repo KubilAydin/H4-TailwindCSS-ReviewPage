@@ -5,7 +5,7 @@ Bu proje Tailwind ile oluşturuldu.
 
 ## 📌 Githun Page ile paylaşıldı.
 
-[Bu link ile ulaşabilirsiniz]()
+[Bu link ile ulaşabilirsiniz](https://kubilaydin.github.io/H4-TailwindCSS-ReviewPage/)
   
 ## 🛠️ Kullanılanlar
 

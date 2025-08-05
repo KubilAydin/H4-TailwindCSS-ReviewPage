@@ -32,7 +32,9 @@ Bu proje Tailwind ile oluşturuldu.
 ### Footer
 - Flex ile aralarında boşluk sağlandı. Sol kısıma linkler getirildi aralarında hizalandi. Sağ kısma ise a etiketleri ile social linkler eklendi. Background eklendi ve rounded ile yuvarlandı. Her iki kısıma hover ile etkileşim sağlandı.
 
-
+### Eklentiler 
+- Container yapısı eklenerek içerikler ortalandı.
+- Responsive içerikler eklendi (Sadece tabletler için).
 
 
   
